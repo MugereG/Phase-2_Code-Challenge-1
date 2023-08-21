@@ -2,20 +2,12 @@ import React from 'react';
 
 function Navbar(){
     return(
-        <div className='Container'>
+        <div className='container'>
             <div>
-                <h1>Hello World</h1>
-            </div>
-            <div>
-                <ul>
-                    <li>Home</li>
-                    <li>About</li>
-                    <li>Contact</li>
-                    <li>Login</li>
-                </ul>
+                <h1>Soledad Bank Transactions</h1>
             </div>
         </div>
     )
 }
 
-export default Navbar;
+export default Navbar;  
